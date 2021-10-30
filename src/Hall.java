@@ -2,20 +2,20 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Halls {
+public class Hall {
 	private String name;
-	private Items[] menu;
+	private Item[] menu;
 	
 	// creates the Halls object
-	Halls(String name, String menuName) throws FileNotFoundException{
+	Hall(String name, String menuName) throws FileNotFoundException{
 		this.name = name;
 		File menuFile = new File(menuName);
 		Scanner menuScanner = new Scanner(menuFile);
 		int numMenuItems = menuScanner.nextInt();
-		Items[] menu = new Items[numMenuItems];
+		Item[] menu = new Item[numMenuItems];
 		for (int i = 0; i < numMenuItems; i++) {
 			String currentName = menuScanner.nextLine();
-			menu[i] = new Items(currentName);
+			menu[i] = new Item(currentName);
 		}
 		menuScanner.close();
 	}
@@ -26,7 +26,7 @@ public class Halls {
 	}
 	
 	// creates an array of items from the menu
-	public Items[] getMenu() {
+	public Item[] getMenu() {
 		return this.menu;
 	}
 }

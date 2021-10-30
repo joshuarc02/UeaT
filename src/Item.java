@@ -1,10 +1,10 @@
-public class Items {
+public class Item {
 
 	private String name;
 	private boolean available;
 	
 	// Makes the new item
-	Items(String name){
+	Item(String name){
 		this.name =  name;
 		this.available = true;
 	}
