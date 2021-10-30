@@ -4,9 +4,9 @@ public class Items {
 	private boolean available;
 	
 	// Makes the new item
-	Items(String name, boolean available){
+	Items(String name){
 		this.name =  name;
-		this.available = available;
+		this.available = true;
 	}
 	
 	// getter method for the name
