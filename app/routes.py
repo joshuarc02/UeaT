@@ -2,6 +2,7 @@
 from flask import render_template, flash, redirect, request, url_for, session, send_file
 from app import app
 import os, sys
+from UeaT import *
 
 
 # home page stuff
@@ -17,9 +18,8 @@ def index():
         return redirect(url_for('question_setup'))
 
     # initalizing all the vars for the page
-    session['topic'] = 'topics'
-    question_type = 'checkbox'
-
+    J2_JCL = Hall('J2_JCL', 'J2_JCL_menu.txt')
+    Kins = Hall('Kins', 'Kins_menu.txt')
 
     # renders the given template and then defines vars
-    return render_template('index.html', title='Home')
+    return render_template('index.html', title='Home', items=J2_JCL.items)

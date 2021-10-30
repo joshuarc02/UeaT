@@ -4,10 +4,14 @@ class Hall:
 
         file = open(fileName)
 
-        infos = file.read().split("\n")
+        self.items = []
+        for line in file:
+            name, number = line.rsplit(" ", 1)
+            item = Item(name, number)
+            self.items.append(item)
 
-        items = [Item(info) for info in infos]
 
 class Item:
-    def __init__(self, info):
-        self.name, self.rating = info.split()
+    def __init__(self, name, number):
+        self.name = name
+        self.number = number
