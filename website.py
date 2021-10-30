@@ -1,5 +1,5 @@
 from app import app
-import webbrowser
+import webbrowser, UeaT
 
 def main():
     # opens the web browser
