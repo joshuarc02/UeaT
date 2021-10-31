@@ -9,17 +9,20 @@ from UeaT import *
 @app.route('/', methods = ['GET', 'POST'])
 @app.route('/index', methods = ['GET', 'POST'])
 def index():
-    if  request.method == 'POST':
-        # getting selected topics and redirecting to the setup page
-        topics = request.form.getlist('topics')
-        if topics == []:
-            return redirect(url_for('index'))
-        session['topics'] = [topic.replace("_", " ") for topic in topics]
-        return redirect(url_for('question_setup'))
-
     # initalizing all the vars for the page
-    J2_JCL = Hall('J2_JCL', 'J2_JCL_menu.txt')
-    Kins = Hall('Kins', 'Kins_menu.txt')
+    session['J2_JCL'] = Hall('J2_JCL', 'J2_JCL_menu.txt')
+    session['Kins'] = Hall('Kins', 'Kins_menu.txt')
 
     # renders the given template and then defines vars
-    return render_template('index.html', title='Home', items=J2_JCL.items)
+    return render_template('index.html', title='Home')
+
+
+@app.route('/generic', methods = ['GET', 'POST'])
+def generic():
+    # renders the given template and then defines vars
+    return render_template('generic.html', title='Home')
+
+@app.route('/elements', methods = ['GET', 'POST'])
+def elements():
+    # renders the given template and then defines vars
+    return render_template('elements.html', title='Home')
