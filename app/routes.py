@@ -9,17 +9,35 @@ from UeaT import *
 @app.route('/', methods = ['GET', 'POST'])
 @app.route('/index', methods = ['GET', 'POST'])
 def index():
-    if  request.method == 'POST':
-        # getting selected topics and redirecting to the setup page
-        topics = request.form.getlist('topics')
-        if topics == []:
-            return redirect(url_for('index'))
-        session['topics'] = [topic.replace("_", " ") for topic in topics]
-        return redirect(url_for('question_setup'))
+    # renders the given template and then defines vars
+    return render_template('index.html', title='Home')
 
-    # initalizing all the vars for the page
-    J2_JCL = Hall('J2_JCL', 'J2_JCL_menu.txt')
-    Kins = Hall('Kins', 'Kins_menu.txt')
+
+@app.route('/generic', methods = ['GET', 'POST'])
+def generic():
+    name = request.args.get('hall')
+    if name == 'None':
+        name = session['current_hall']
+    session['current_hall'] = name
+
+    print(name)
+
+    hall = Hall(name, name + '_menu.txt')
+    
+    if request.method == 'POST':
+        f = open(name + "_menu.txt", "w")
+        avaliable = request.form.getlist("items")
+        print(avaliable)
+        for item in hall.items:
+            if item.name in avaliable:
+                item.number = '1'
+            else:
+                item.number = '0'
+            
+            f.write(item.toString() + "\n")
+        f.close()
+        return render_template('index.html', title='Home')
+
 
     # renders the given template and then defines vars
-    return render_template('index.html', title='Home', items=J2_JCL.items)
+    return render_template('generic.html', title='Home', name=name.replace('_', ' '), menu=hall.items)
