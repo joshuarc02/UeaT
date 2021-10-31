@@ -1,131 +1,87 @@
-Buffalo Tofu Scramble 1
-French Toast Sticks 1
-Maple Syrup 1
-Oatmeal 1
-Roasted Italian Vegetables 1
-Sausage Patty 1
-Scrambled Eggs 1
-Tater Tots 1
-Vegetarian Breakfast Patty 1
+Asian_Spiced_Noodles 1
+Baked_Sesame_Tofu 1
 Banana 1
-Fresh Orange 1
-Gala Apple 1
-Granny Smith Apple 1
+Beef_Lasagna 1
 Blueberries 1
+Blueberry_Cookie_Bar 1
+Breadstick 1
+Buffalo_Tofu_Scramble 1
 Cantaloupe 1
-Chocolate Chip Banana Muffin 1
-Chocolate Scone 1
-Diced Honeydew 1
-Fresh Red Grapes 1
-Grapefruit Halves 1
-Lowfat Cottage Cheese 1
-Mandarin Oranges 1
+Cheese_Pizza 1
+Cheeseburger 1
+Cheesy_Garlic_Bread 1
+Cherry_Cobbler 1
+Cherry_Tomatoes 1
+Chicken_and_Butternut_Squash_Curry 1
+Chicken_Salad 1
+Chocolate_Buttercream_Cupcake 1
+Chocolate_Chip_Banana_Muffin 1
+Chocolate_Scone 1
+Chopped_Hard_Boiled_Egg 1
+Chopped_Romaine_Lettuce 1
+Classic_Italian_Pizza 1
+Craisins 1
+Cucumber_Slices 1
+Diced_Honeydew 1
+Diced_Turkey_Breast 1
+Falafel_Bites 1
+French_Toast_Sticks 1
+Fresh_Orange 1
+Fresh_Orange_Wedges 1
+Fresh_Red_Grapes 1
+Gala_Apple 1
+Granny_Smith_Apple 1
+Grapefruit_Halves 1
+Grilled_Chicken_Sandwich 1
+Grilled_Marinated_Portabella_Mushrooms 1
+Gumbo 1
+Halal_Grilled_Chicken_Breast 1
+Halal_Hamburger_Patty 1
+Honey_Mustard_Sauce 1
+Indian_Spiced_Sweet_Potatoes 1
+Kale_Salad_Mix 1
+Kidney_Beans 1
+Lemon_Squares 1
+Lentil_and_Mushroom_Ragu 1
+Longhorniza_Sausage_w/_Peppers_&_Onions 1
+Lowfat_Cottage_Cheese 1
+Mandarin_Oranges 1
 Mango 1
-Plain Greek Yogurt 1
-Vanilla Yogurt 1
-Roasted Breakfast Vegetable Blend 1
-Sausage Patty 1
-Breadstick 1
-Gumbo 1
-Turkey & Ruby Wild Rice Soup 1
-Cherry Tomatoes 1
-Chicken Salad 1
-Chopped Hard Boiled Egg 1
-Chopped Romaine Lettuce 1
-Craisins 1
-Cucumber Slices 1
-Diced Turkey Breast 1
-Kale Salad Mix 1
-Kidney Beans 1
-Raw Broccoli Florets 1
-Shredded Carrots 1
-Shredded Cheddar Cheese 1
-Sliced Red Onion 1
-Tofu 1
-Fresh Orange Wedges 1
-Pineapple Tidbits 1
-Sliced Kiwi 1
-Sliced Peaches 1
-Cherry Cobbler 1
-Chocolate Buttercream Cupcake 1
-Vegan Rainbow Sprinkles Bar 1
-Beef Lasagna 1
-Cheesy Garlic Bread 1
-Roasted Cauliflower 1
-Roasted Italian Broccoli 1
-Vegetable Lasagna 1
-Falafel Bites 1
-Lentil and Mushroom Ragu 1
-Pita Pocket 1
-Roasted Italian Vegetables 1
-Cheeseburger 1
-Grilled Chicken Sandwich 1
-Halal Grilled Chicken Breast 1
-Halal Hamburger Patty 1
-Honey Mustard Sauce 1
-Longhorniza Sausage w/ Peppers & Onions 1
-Onion Rings 1
-Shredded Romaine 1
-Spicy Black Bean Burger 1
-Steak Bun 1
-Thin Sliced Tomatoes 1
-Cheese Pizza 1
-Classic Italian Pizza 1
-Margherita Pizza 1
-Pepperoni Pizza 1
-Vegan "Cheese" Pizza 1
-Shredded Romaine 1
-Breadstick 1
-Gumbo 1
-Turkey & Ruby Wild Rice Soup 1
-Cherry Tomatoes 1
-Chicken Salad 1
-Chopped Hard Boiled Egg 1
-Chopped Romaine Lettuce 1
-Craisins 1
-Cucumber Slices 1
-Diced Turkey Breast 1
-Kale Salad Mix 1
-Kidney Beans 1
-Raw Broccoli Florets 1
-Shredded Carrots 1
-Shredded Cheddar Cheese 1
-Sliced Red Onion 1
-Tofu 1
-Blueberries 1
-Cantaloupe 1
-Diced Honeydew 1
-Fresh Orange Wedges 1
-Lowfat Cottage Cheese 1
-Mandarin Oranges 1
-Pineapple Tidbits 1
-Plain Greek Yogurt 1
-Sliced Kiwi 1
-Sliced Peaches 1
-Blueberry Cookie Bar 1
-Lemon Squares 1
-Pumpkin Spice Latte Bar 1
-Chicken and Butternut Squash Curry 1
-Grilled Marinated Portabella Mushrooms 1
-Indian Spiced Sweet Potatoes 1
+Maple_Syrup 1
+Margherita_Pizza 1
 Naan 1
-Vegan Chana Masala 1
-Vegetable Samosa 1
-Asian Spiced Noodles 1
-Baked Sesame Tofu 1
-Roasted Ginger Bok Choy 1
-Sriracha Roasted Carrots 1
-Cheeseburger 1
-Grilled Chicken Sandwich 1
-Halal Grilled Chicken Breast 1
-Halal Hamburger Patty 1
-Longhorniza Sausage w/ Peppers & Onions 1
-Onion Rings 1
-Spicy Black Bean Burger 1
-Steak Bun 1
-Thin Sliced Tomatoes 1
-Cheese Pizza 1
-Classic Italian Pizza 1
-Margherita Pizza 1
-Pepperoni Pizza 1 
-Vegan "Cheese" Pizza 
+Oatmeal 1
+Onion_Rings 1
+Pepperoni_Pizza 1
+Pineapple_Tidbits 1
+Pita_Pocket 1
+Plain_Greek_Yogurt 1
+Pumpkin_Spice_Latte_Bar 1
+Raw_Broccoli_Florets 1
+Roasted_Breakfast_Vegetable_Blend 1
+Roasted_Cauliflower 1
+Roasted_Ginger_Bok_Choy 1
+Roasted_Italian_Broccoli 1
+Roasted_Italian_Vegetables 1
+Sausage_Patty 1
+Scrambled_Eggs 1
+Shredded_Carrots 1
+Shredded_Cheddar_Cheese 1
+Shredded_Romaine 1
+Sliced_Kiwi 1
+Sliced_Peaches 1
+Sliced_Red_Onion 1
+Spicy_Black_Bean_Burger 1
+Sriracha_Roasted_Carrots 1
+Steak_Bun 1
+Tater_Tots 1
+Thin_Sliced_Tomatoes 1
+Tofu 1
+Turkey_&_Ruby_Wild_Rice_Soup 1
+Vanilla_Yogurt 1
+Vegan_"Cheese"_Pizza 0
+Vegan_Chana_Masala 1
+Vegan_Rainbow_Sprinkles_Bar 1
+Vegetable_Lasagna 1
+Vegetable_Samosa 1
+Vegetarian_Breakfast_Patty 1

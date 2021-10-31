@@ -19,11 +19,11 @@
 			<tbody>
 				{% for item in menu %}
 				<tr>
-					<td>{{ item.name }}</td>
+					<td>{{ item.name.replace('_',' ') }}</td>
 					<td>{{ item.getAvaliable()}}</td>
 					<td>
 					<div class="col-6 col-12-small">
-						<input type="checkbox" id={{ item.name }} name={{ item.name }} {% if item.number == '1' %}checked{% endif %}>
+						<input type="checkbox" id={{ item.name }} name="items"  value={{ item.name }} {% if item.number == '1' %}checked{% endif %}>
 						<label for={{ item.name }}></label>
 					</div>
 					</td>

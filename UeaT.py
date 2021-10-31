@@ -1,17 +1,17 @@
 class Hall:
-    names = []
 
     def __init__(self, name, fileName):
         self.name = name
+        self.names = []
 
         file = open(fileName)
 
         self.items = []
         for line in file:
             name, number = line.strip().rsplit(" ", 1)
-            if name in Hall.names:
+            if name in self.names:
                 continue
-            Hall.names.append(name)
+            self.names.append(name)
             item = Item(name, number)
             self.items.append(item)
 
@@ -30,4 +30,4 @@ class Item:
             return 'X'
 
     def toString(self):
-        return item.name + " " + number
+        return self.name + " " + self.number

@@ -9,10 +9,6 @@ from UeaT import *
 @app.route('/', methods = ['GET', 'POST'])
 @app.route('/index', methods = ['GET', 'POST'])
 def index():
-    # initalizing all the vars for the page
-    session['J2_and_JCL_Dining'] = Hall('J2_and_JCL_Dining', 'J2_and_JCL_Dining_menu.txt')
-    session['Kinsolving_Dining'] = Hall('Kinsolving_Dining', 'Kinsolving_Dining_menu.txt')
-
     # renders the given template and then defines vars
     return render_template('index.html', title='Home')
 
@@ -20,26 +16,28 @@ def index():
 @app.route('/generic', methods = ['GET', 'POST'])
 def generic():
     name = request.args.get('hall')
-    menu = session[name].items
+    if name == 'None':
+        name = session['current_hall']
+    session['current_hall'] = name
+
+    print(name)
+
+    hall = Hall(name, name + '_menu.txt')
+    
     if request.method == 'POST':
-        f = open("demofile2.txt", "a")
-        for item in menu:
-            avaliable = request.form[item.name]
-            if avaliable:
+        f = open(name + "_menu.txt", "w")
+        avaliable = request.form.getlist("items")
+        print(avaliable)
+        for item in hall.items:
+            if item.name in avaliable:
                 item.number = '1'
             else:
                 item.number = '0'
             
-            f.write(item.toString())
+            f.write(item.toString() + "\n")
         f.close()
-        return redirect(url_for('generic'))
+        return render_template('index.html', title='Home')
 
 
-    name = name.replace('_', ' ')
     # renders the given template and then defines vars
-    return render_template('generic.html', title='Home', name=name, menu=menu)
-
-@app.route('/elements', methods = ['GET', 'POST'])
-def elements():
-    # renders the given template and then defines vars
-    return render_template('elements.html', title='Home')
+    return render_template('generic.html', title='Home', name=name.replace('_', ' '), menu=hall.items)
