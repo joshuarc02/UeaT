@@ -3607,20 +3607,12 @@ input, select, textarea {
 		-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 		transition: transform 1s ease, opacity 1s ease;
 		background: rgba(255, 255, 255, 0.175);
-		height: 4rem;
-		line-height: 4rem;
-		margin: -4rem auto 0 auto;
-		overflow: hidden;
-		padding: 0 2rem 0 0;
+		margin: 0 auto;
 		position: relative;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
 	}
-
-		#nav ul.divided li {
-			border-top-color: #ffffff;
-		}
 
 		#nav ul.icons li a.icon:hover:before {
 			color: #18bfef;
@@ -3639,8 +3631,8 @@ input, select, textarea {
 		}
 
 		#nav a {
-			color: #ffffff;
-			border-bottom-color: rgba(255, 255, 255, 0.5);
+			color: #000;
+			border: #000;
 		}
 
 			#nav a:hover {
@@ -3686,14 +3678,13 @@ input, select, textarea {
 			font-weight: 900;
 			letter-spacing: 0.075em;
 			list-style: none;
-			margin-bottom: 0;
-			padding-left: 0;
+			margin: 0;
+			padding: 0;
 			text-transform: uppercase;
 		}
 
 			#nav ul.links li {
 				display: block;
-				padding-left: 0;
 			}
 
 				#nav ul.links li a {
