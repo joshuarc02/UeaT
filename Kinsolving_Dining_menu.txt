@@ -1,144 +1,126 @@
-Oatmeal 1
-Blueberries 1
+Chopped Romaine Lettuce 1
+Shredded Carrots 1
+Thin Sliced Tomatoes 1
+Sliced Red Onion 1
+Fresh Orange Wedges 1
+Baked Chicken 1
+Continental Zucchini 1
+Swiss Style Spinach 1
 Cantaloupe 1
-Chocolate Chip Banana Muffin 1
-Chocolate Scone 1
-Diced Honeydew 1
-Fresh Red Grapes 1
-Grapefruit Halves 1
-Lowfat Cottage Cheese 1
-Mandarin Oranges 1
-Mango 1
-Plain Greek Yogurt 1
-Vanilla Yogurt 1
+Diced Ham 1
+Feta Cheese 1
+White Bread 1
+Edamame 1
+Steak Cut French Fries 1
+Banana Muffin 1
+Baked Teriyaki Tofu 1
+12" Whole Wheat Tortilla 1
+Primavera Red Sauce 1
+Craisins 1
+Sliced Pickles 1
+Baked Italian Seasoned Zucchini & Tomatoes 1
+Peach Cobbler 1
+Vegan Double Chocolate Brookie Bar 1
+Fresh Tomato Slices 1
+Cherry Tomatoes 1
+Sriracha Ranch 1
 Biscuit 1
-Cajun Tofu Scramble 1
-French Toast Sticks 1
-Hard Boiled Egg 1
-Maple Syrup 1
-Peppered Cream Gravy 1
+Vanilla Yogurt 1
 Roasted Italian Vegetables 1
-Sausage Link 1
+Shredded Romaine 1
+Refried Beans 1
+Pork for Tacos al Pastor 1
+Raw Broccoli Florets 1
+Sliced Green Onion 1
+Chicken Rotini Soup 1
+Crispy Bacon Pieces 1
+Grapefruit Halves 1
+Peppered Cream Gravy 1
+Eggplant Stir-Fry 1
+Jalapeno Pepper Slices 1
+Mexican Style Corn 1
+Five Bean Salad 1
+Pico de Gallo 1
+Homestyle Mashed Potatoes 1
+Baked Sweet Potato 1
+Cheese Pizza 1
+Sliced Kiwi 1
+Penne Pasta 1
+Blueberries 1
+Fresh Sauteed Spinach 1
+Whipped Honey Butter 1
+Shredded Cheddar Cheese 1
+Mustard 1
+Pineapple Tidbits 1
+Sour Cream 1
+Meatball Marinara Pizza 1
+Tortilla Chips 1
+Banana 1
+Hard Boiled Egg 1
+Ham Slices 1
+Mediterranean Pizza 1
 Scrambled Eggs 1
-Shredded Hash Browns 1
+Gala Apple 1
+Tzatziki Sauce 1
+Fruit Cocktail 1
+Mayonnaise 1
+Tofu 1
+Hidden Valley Ranch Dressing 1
+12" Spinach Tortilla 1
+Multi Grain Bread 1
+Granny Smith Apple 1
+Chocolate Scone 1
+Kale, Sweet Potato & Ruby Wild Rice Salad 1
 Vegetarian Breakfast Patty 1
-Banana 1
-Fresh Orange 1
-Gala Apple 1
-Granny Smith Apple 1
-Baked Chicken 1
-Cheesy Garlic Bread 1
-Marinara Sauce with Meatballs 1
-Roasted Italian Broccoli 1
-Spaghetti Noodles 1
-Falafel Bites 1
-Golden Jewel Grain Blend 1
-Roasted Cauliflower 1
-Wild and Long Grain Rice 1
-Cheeseburger 1
-Grilled Chicken Sandwich 1 
-Halal Grilled Chicken Breast 1
-Halal Hamburger Patty 1
-Leaf Lettuce 1
-Mini Corn Dogs 1
-Onion Rings 1
-Spicy Black Bean Burger 1
-Thin Sliced Tomatoes 1
-Breadstick 1
-Gumbo 1
-Cherry Tomatoes 1
-Chicken Salad 1
-Chopped Hard Boiled Egg 1
-Chopped Romaine Lettuce 1
-Craisins 1
-Cucumber Slices 1
-Diced Turkey Breast 1
-Kale Salad Mix 1
-Kidney Beans 1
-Raw Broccoli Florets 1
-Shredded Carrots 1
-Shredded Cheddar Cheese 1
-Tofu 1
-Blueberries 1
-Cantaloupe 1
-Diced Honeydew 1
-Fresh Orange Wedges 1
-Lowfat Cottage Cheese 1
-Mandarin Oranges 1
-Pineapple Tidbits 1
-Plain Greek Yogurt 1
-Sliced Kiwi 1
-Sliced Peaches 1
-Blueberry Cookie Bar 1
-New York Cheesecake Bar 1
-Rainbow Cookies 1
-Banana 1
-Fresh Orange 1
-Gala Apple 1
-Granny Smith Apple 1
-Cheese Pizza 1
-Pepperoni Pizza 1
-Vegan "Cheese" Pizza 1 
-WG Margherita Thin Crust Pizza 1
-Beef Bolognese Sauce 1
-Breadstick 1
-Pesto Alfredo Sauce 1
-Shell Pasta 1
-Baked Chicken 1
-Cheesy Garlic Bread 1
-Marinara Sauce with Meatballs 1
-Roasted Italian Broccoli 1
-Spaghetti Noodles 1
-Falafel Bites 1
-Golden Jewel Grain Blend 1
-Roasted Cauliflower 1
-Wild and Long Grain Rice 1
-Cheeseburger 1
+Swiss Cheese Slices 1
 Grilled Chicken Sandwich 1
-Halal Grilled Chicken Breast 1
-Halal Hamburger Patty 1
-Leaf Lettuce 1
-Mini Corn Dogs 1
-Onion Rings 1
-Spicy Black Bean Burger 1
-Thin Sliced Tomatoes 1
-Breadstick 1
-Gumbo 1
-Cherry Tomatoes 1
-Chicken Salad 1
-Chopped Hard Boiled Egg 1
-Chopped Romaine Lettuce 1
-Craisins 1
-Cucumber Slices 1
-Diced Turkey Breast 1
-Kale Salad Mix 1
-Kidney Beans 1
-Raw Broccoli Florets 1
-Shredded Carrots 1
-Shredded Cheddar Cheese 1
-Tofu 1
-Blueberries 1
-Cantaloupe 1
-Diced Honeydew 1
-Fresh Orange Wedges 1
-Lowfat Cottage Cheese 1
-Mandarin Oranges 1
-Pineapple Tidbits 1
-Plain Greek Yogurt 1
-Sliced Kiwi 1
-Sliced Peaches 1
-Blueberry Cookie Bar 1
-New York Cheesecake Bar 1
-Rainbow Cookies 1
-Banana 1
-Fresh Orange 1
-Gala Apple 1
-Granny Smith Apple 1
-Cheese Pizza 1
+Key Lime Bars 1
+Housemade Hummus 1
+Hickory Smoked Tofurky Slices 1
+Fresh Red Grapes 1
+Chile Con Queso 1
+Southwest Black Beans 1
+Diced Tomato 1
+Meatball Sub Sandwich 1
+Ranch Style Pinto Beans 1
+Garlic Roasted Potatoes 1
+Chicken Taquito 1
 Pepperoni Pizza 1
-Vegan "Cheese" Pizza 1
-WG Margherita Thin Crust Pizza 1
-Beef Bolognese Sauce 1
+Western Style Potatoes 1
+Oatmeal 1
+Plain Greek Yogurt 1
+Fried Chicken 1
+Firecracker Rice 1
+Bok Choy and Cabbage 1
+Spanish Rice w/ Peas & Carrots 1
+Mediterranean Chicken 1
+Black Olives 1
+Fried Plantains 1
+Fresh Orange 1
+Steamed Jasmine Rice 1
 Breadstick 1
-Pesto Alfredo Sauce 1
-Shell Pasta 1
+Smothered Beef & Bean Chimichanga 1
+Chopped Hard Boiled Egg 1
+Lucky Charms Treat Bar 1
+Jamaican Jerk Chicken 1
+Halal Grilled Chicken Breast 1
+Smoked Beef & Pork Rope Sausage 1
+Lowfat Cottage Cheese 1
+Diced Honeydew 1
+Mandarin Oranges 1
+Applewood Smoked Turkey Breast 1
+Cheeseburger 1
+Caramel Apple Pizza 1
+American Cheese Slices 1
+Halal Hamburger Patty 1
+Chimichurri Tofu Scramble 1
+Mango 1
+Lemongrass Soup 1
+Roasted Baby Carrots 1
+Spicy Black Bean Burger 1
+Cucumber Slices 1
+Whole Wheat Bread 1
+Marinated Olives 1
+Frosted Fudge Brownie 1
+Vegan "Cheese" Pizza 1
+Sauteed Mushrooms 1
