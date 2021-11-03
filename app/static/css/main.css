@@ -2855,13 +2855,7 @@ input, select, textarea {
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2rem 0;
-		padding-left: 1rem;
 	}
-
-		ul li {
-			padding-left: 0.5rem;
-		}
 
 		ul.divided {
 			list-style: none;
@@ -2870,7 +2864,6 @@ input, select, textarea {
 
 			ul.divided li {
 				border-top: solid 1px;
-				padding: 0.5rem 0;
 			}
 
 				ul.divided li:first-child {
@@ -3754,7 +3747,7 @@ input, select, textarea {
 	}
 
 		#main > * {
-			padding: 4rem 4rem 2rem 4rem ;
+			padding: 2rem;
 			border-top: solid 2px #eeeeee;
 			margin: 0;
 		}
@@ -3768,7 +3761,7 @@ input, select, textarea {
 		}
 
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			padding: 2rem ;
 		}
 
 			#main > .post header.major > .date {
@@ -4439,8 +4432,6 @@ input, select, textarea {
 				border-left: solid 2px;
 				display: inline-block;
 				line-height: 1;
-				margin-left: 1rem;
-				padding-left: 1rem;
 			}
 
 				#copyright ul li:first-child {
@@ -4461,7 +4452,6 @@ input, select, textarea {
 
 			#copyright ul li {
 				border-left: 0;
-				margin: 1rem 0 0 0;
 				padding-left: 0;
 				display: block;
 			}

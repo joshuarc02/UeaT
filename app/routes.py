@@ -51,6 +51,6 @@ def generic():
     return render_template(
         'generic.html', 
         title='Home', 
-        name=name.replace('_', ' '), 
+        name=name.replace('_', ' '),
         menu=menu.items
     )
