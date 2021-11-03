@@ -1,5 +1,6 @@
 Apple Cinnamon Muffin 1
 Banana 1
+Barbeque Sauce 1
 Basmati Rice 1
 Beef Au Jus 1
 Beef Chili 1
@@ -62,7 +63,6 @@ Mexican Quinoa 1
 Mixed Berry Cheesecake Bar 1
 Moroccan Chickpea Tagine 1
 Mushroom & Spinach Pizza 1
-Mushroom Bordelaise Sauce 1
 Peppered Cream Gravy 1
 Pepperoni Pizza 1
 Pineapple Tidbits 1

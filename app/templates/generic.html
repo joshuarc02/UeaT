@@ -6,8 +6,9 @@
 		<h1>Currently Available Menu Items at {{ name }}</h1>
 	</header>
 
+	<form method="post" action="#">
+		
 	<div class="table-wrapper">
-		<form method="post" action="#">
 		<table>
 			<thead>
 				<tr>
@@ -19,8 +20,8 @@
 			<tbody>
 				{% for item in menu %}
 				<tr>
-					<td>{{ item.name}}</td>
-					<td>{{ item.getAvaliable()}}</td>
+					<td>{{item.name}}</td>
+					<td>{{item.getAvaliable()}}</td>
 					<td>
 					<div class="col-6 col-12-small">
 						<input type="checkbox" id="{{item.name}}" name="items"  value="{{item.name}}" {% if item.number == '1' %}checked{% endif %}>
@@ -31,8 +32,8 @@
 				{% endfor %}
 			</tbody>
 		</table>
-		<input type="submit" value="Submit Changes" class="primary" />
-		</form>
-	</div>
+		<input id="submit" type="submit" value="Submit Changes" class="primary"/>
+		</div>
+	</form>
 </div>
 {% endblock %}
