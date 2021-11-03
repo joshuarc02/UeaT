@@ -1,45 +1,45 @@
-Alfredo Sauce 0
-Artichoke Hearts 0
-BBQ Sauce 0
-Beef Crumbles 0
-Canadian Ham Slices 0
-Caprese Grilled Cheese Sandwich 0
-Cheese Pizza 0
-Cheese Pizza 16" 0
-Cheesy Breadsticks 0
-Chicken Breast Strip 0
-Chipotle Pesto Sauce 0
-Cinnamon Breadsticks 0
-Crispy Bacon Pieces 0
-Diced Tomato 0
-Feta Cheese 0
-Fresh Basil 0
-Fresh Spinach 0
-Fresh Tomato Slices 0
-Garlic Parmasan Sauce 0
-Gouda Cheese 0
-Italian Pork Sausage 0
-Jalapeno Pepper Slices 0
-Jesta Cheese Blend 0
-Jesta Wings - 12 Pieces 0
-Jesta Wings - 8 Pieces 0
-Meat Lovers Pizza 10" 0
-Minced Garlic 0
-Muffuletta Sandwich 0
-Mushrooms 0
-Pepperoni Pizza 0
-Pepperoni Pizza 16" 0
-Pepperoni Slices 0
-Pesto Chicken & Gouda Ciabatta Sandwich 0
-Pineapple Tidbits 0
-Pizza Crust 10" 0
-Pizza Crust 16" 0
-Red Hot Sauce 0
-Sliced Red Onion 0
-Sliced Ripe Olives 0
-Sriracha Chicken Bites 0
-Sriracha Ranch 0
-Tomato Sauce 0
-Vegan "Beef" Crumbles 0
-Vegan "Mozzarella Cheese" 0
-White Mac and Cheese 0
+Alfredo Sauce 1
+Artichoke Hearts 1
+BBQ Sauce 1
+Beef Crumbles 1
+Canadian Ham Slices 1
+Caprese Grilled Cheese Sandwich 1
+Cheese Pizza 1
+Cheese Pizza 16" 1
+Cheesy Breadsticks 1
+Chicken Breast Strip 1
+Chipotle Pesto Sauce 1
+Cinnamon Breadsticks 1
+Crispy Bacon Pieces 1
+Diced Tomato 1
+Feta Cheese 1
+Fresh Basil 1
+Fresh Spinach 1
+Fresh Tomato Slices 1
+Garlic Parmasan Sauce 1
+Gouda Cheese 1
+Italian Pork Sausage 1
+Jalapeno Pepper Slices 1
+Jesta Cheese Blend 1
+Jesta Wings - 12 Pieces 1
+Jesta Wings - 8 Pieces 1
+Meat Lovers Pizza 10" 1
+Minced Garlic 1
+Muffuletta Sandwich 1
+Mushrooms 1
+Pepperoni Pizza 1
+Pepperoni Pizza 16" 1
+Pepperoni Slices 1
+Pesto Chicken & Gouda Ciabatta Sandwich 1
+Pineapple Tidbits 1
+Pizza Crust 10" 1
+Pizza Crust 16" 1
+Red Hot Sauce 1
+Sliced Red Onion 1
+Sliced Ripe Olives 1
+Sriracha Chicken Bites 1
+Sriracha Ranch 1
+Tomato Sauce 1
+Vegan "Beef" Crumbles 1
+Vegan "Mozzarella Cheese" 1
+White Mac and Cheese 1

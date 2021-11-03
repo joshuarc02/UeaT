@@ -5,8 +5,9 @@ import os
 
 def main():
     menu_locations = os.listdir(os.path.abspath("menus"))
-    if menu_locations == False:
+    if not menu_locations:
         Menu.create_menus()
+        menu_locations = os.listdir(os.path.abspath("menus"))
     
     Menu.load_menus(menu_locations)
     # opens the web browser

@@ -1,127 +1,137 @@
-12" Spinach Tortilla 0
-12" Whole Wheat Tortilla 0
-American Cheese Slices 0
-Applewood Smoked Turkey Breast 0
-Baked Chicken 0
-Baked Italian Seasoned Zucchini & Tomatoes 0
-Baked Sweet Potato 0
-Baked Teriyaki Tofu 0
-Banana 0
-Banana Muffin 0
-Biscuit 0
-Black Olives 0
-Blueberries 0
-Bok Choy and Cabbage 0
-Breadstick 0
-Cantaloupe 0
-Caramel Apple Pizza 0
-Cheese Pizza 0
-Cheeseburger 0
-Cherry Tomatoes 0
-Chicken Rotini Soup 0
-Chicken Taquito 0
-Chile Con Queso 0
-Chimichurri Tofu Scramble 0
-Chocolate Scone 0
-Chopped Hard Boiled Egg 0
-Chopped Romaine Lettuce 0
-Continental Zucchini 0
-Craisins 0
-Crispy Bacon Pieces 0
-Cucumber Slices 0
-Diced Ham 0
-Diced Honeydew 0
-Diced Tomato 0
-Edamame 0
-Eggplant Stir-Fry 0
-Feta Cheese 0
-Firecracker Rice 0
-Five Bean Salad 0
-Fresh Orange 0
-Fresh Orange Wedges 0
-Fresh Red Grapes 0
-Fresh Sauteed Spinach 0
-Fresh Tomato Slices 0
-Fried Chicken 0
-Fried Plantains 0
-Frosted Fudge Brownie 0
-Fruit Cocktail 0
-Gala Apple 0
-Garlic Roasted Potatoes 0
-Granny Smith Apple 0
-Grapefruit Halves 0
-Grilled Chicken Sandwich 0
-Halal Grilled Chicken Breast 0
-Halal Hamburger Patty 0
-Ham Slices 0
-Hard Boiled Egg 0
-Hickory Smoked Tofurky Slices 0
-Hidden Valley Ranch Dressing 0
-Homestyle Mashed Potatoes 0
-Housemade Hummus 0
-Jalapeno Pepper Slices 0
-Jamaican Jerk Chicken 0
-Kale, Sweet Potato & Ruby Wild Rice Salad 0
-Key Lime Bars 0
-Lemongrass Soup 0
-Lowfat Cottage Cheese 0
-Lucky Charms Treat Bar 0
-Mandarin Oranges 0
-Mango 0
-Marinated Olives 0
-Mashed Sweet Potatoes 0
-Mayonnaise 0
-Meatball Marinara Pizza 0
-Meatball Sub Sandwich 0
-Mediterranean Chicken 0
-Mediterranean Pizza 0
-Mexican Style Corn 0
-Multi Grain Bread 0
-Mustard 0
-Oatmeal 0
-Peach Cobbler 0
-Penne Pasta 0
-Peppered Cream Gravy 0
-Pepperoni Pizza 0
-Pico de Gallo 0
-Pineapple Tidbits 0
-Plain Greek Yogurt 0
-Pork for Tacos al Pastor 0
-Primavera Red Sauce 0
-Ranch Style Pinto Beans 0
-Raw Broccoli Florets 0
-Refried Beans 0
-Roasted Baby Carrots 0
-Roasted Italian Vegetables 0
-Sauteed Mushrooms 0
-Scrambled Eggs 0
-Shredded Carrots 0
-Shredded Cheddar Cheese 0
-Shredded Romaine 0
-Sliced Green Onion 0
-Sliced Kiwi 0
-Sliced Pickles 0
-Sliced Red Onion 0
-Smoked Beef & Pork Rope Sausage 0
-Smothered Beef & Bean Chimichanga 0
-Sour Cream 0
-Southwest Black Beans 0
-Spanish Rice w/ Peas & Carrots 0
-Spicy Black Bean Burger 0
-Sriracha Ranch 0
-Steak Cut French Fries 0
-Steamed Jasmine Rice 0
-Swiss Cheese Slices 0
-Swiss Style Spinach 0
-Thin Sliced Tomatoes 0
-Tofu 0
-Tortilla Chips 0
-Tzatziki Sauce 0
-Vanilla Yogurt 0
-Vegan "Cheese" Pizza 0
-Vegan Double Chocolate Brookie Bar 0
-Vegetarian Breakfast Patty 0
-Western Style Potatoes 0
-Whipped Honey Butter 0
-White Bread 0
-Whole Wheat Bread 0
+12" Spinach Tortilla 1
+Alfredo Sauce 1
+American Cheese Slices 1
+Apple Cinnamon Muffin 1
+Applewood Smoked Turkey Breast 1
+Baked Potato 1
+Banana 1
+Beef Au Jus 1
+Beef Stroganoff 1
+Biscuit 1
+Black Beans 1
+Black Olives 1
+Blackeyed Peas 1
+Blueberries 1
+Breadstick 1
+Buffalo Chicken Wrap Filling 1
+Buffalo Tofu Scramble 1
+Cajun Rice 1
+Cantaloupe 1
+Cheese Pizza 1
+Cheeseburger 1
+Cherry Cheesecake Pie 1
+Cherry Tomatoes 1
+Chicken Stir Fry w/ Szechuan Sauce 1
+Chicken Tetrazzini 1
+Chile Con Queso 1
+Chimichurri Sauce 1
+Chipotle Ranch Dressing 1
+Chopped Buffalo Cauliflower 1
+Chopped Hard Boiled Egg 1
+Chopped Romaine Lettuce 1
+Craisins 1
+Crispy Bacon Pieces 1
+Cucumber Slices 1
+Diced Chicken 1
+Diced Ham 1
+Diced Honeydew 1
+Diced Tomato 1
+Diced Turkey Breast 1
+Egg Noodles 1
+English Muffin 1
+French Toast Sticks 1
+Fresh Orange 1
+Fresh Orange Wedges 1
+Fresh Red Grapes 1
+Fresh Spinach 1
+Fresh Tomato Slices 1
+Fried Tofu 1
+Frito Pie Pizza 1
+Gala Apple 1
+German Cucumber Salad 1
+German Red Cabbage 1
+German Style Pork Roast 1
+Granny Smith Apple 1
+Grapefruit Halves 1
+Green Beans w/ Tomatoes & Mushrooms 1
+Green Peas 1
+Grilled Chicken Sandwich 1
+Grits 1
+Halal Grilled Chicken Breast 1
+Halal Hamburger Patty 1
+Ham Slices 1
+Hard Boiled Egg 1
+Hickory Smoked Tofurky Slices 1
+Housemade Cheese Sauce 1
+Housemade Hummus 1
+Italian Brisket 1
+Italian Chicken Strips 1
+Italian Dressing 1
+Jalapeno Pepper Slices 1
+Kiwi 1
+Lowfat Cottage Cheese 1
+Mandarin Oranges 1
+Mango 1
+Maple Syrup 1
+Marinara Sauce 1
+Mayonnaise 1
+Mediterranean Pizza 1
+Mixed Berry Cheesecake Bar 1
+Mushroom & Spinach Pizza 1
+Mushroom Barley Soup 1
+Mustard 1
+Pancakes 1
+Penne Pasta 1
+Peppered Cream Gravy 1
+Pepperoni Pizza 1
+Pico de Gallo 1
+Pineapple Tidbits 1
+Plain Greek Yogurt 1
+Pork Pot Stickers 1
+Pork for Tacos al Pastor 1
+Potato & Sausage Breakfast Casserole Prep 1
+Raw Broccoli Florets 1
+Refried Beans 1
+Rice Krispie Treats 1
+Roasted Cauliflower Steak 1
+Roasted Cherry Tomatoes 1
+Roasted Italian Vegetables 1
+Roasted Maple Sweet Potatoes 1
+Sauteed Cabbage 1
+Sauteed Green Beans 1
+Scalloped Potatoes w/ Jalapenos 1
+Scrambled Eggs 1
+Seasoned Collard Greens 1
+Shredded Carrots 1
+Shredded Cheddar Cheese 1
+Shredded Lettuce 1
+Shredded Mozzarella Cheese 1
+Sliced Breakfast Ham 1
+Sliced Green Onion 1
+Sliced Mushrooms 1
+Sliced Pickles 1
+Sliced Red Onion 1
+Sliced Vegan Bread 1
+Smashed Red Potatoes 1
+Sour Cream 1
+Spicy Black Bean Burger 1
+Sriracha Mayonnaise 1
+Steamed White Rice 1
+Stir Fry Vegetable Blend 1
+Strawberry Goat Cheese Scone 1
+Strawberry Marble Cake 1
+Sugar Cookie Bar 1
+Swiss Cheese Slices 1
+Tater Tots 1
+Thin Sliced Tomatoes 1
+Tofu 1
+Tortellini Primavera 1
+Tortilla Chips 1
+Vanilla Yogurt 1
+Vegan "Cheese" Pizza 1
+Vegetarian Breakfast Patty 1
+Wedged Red Potatoes 1
+Wheat Dinner Roll 1
+Whipped Honey Butter 1
+White Bean Soup with Ham 1
+White Bread 1

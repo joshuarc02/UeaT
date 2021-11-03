@@ -1,61 +1,62 @@
-Almond Croissant 0
-American Cheese 0
-Apple Cinnamon Muffin w/ Walnuts 0
-Apple Turnover 0
-Bacon 0
-Barbeque Sauce 0
-Bistro Cheese Mega Box 0
-Black Bean Quinoa Burger 0
-Blueberry Muffin 0
-Cantaloupe Fruit Cup 0
-Caprese Grilled Cheese Sandwich 0
-Cheddar Cheese 0
-Chicken Parmesan Sandwich 0
-Chicken Salad Sandwich 0
-Chile Con Queso 0
-Chips & Queso 0
-Chocolate Chip Cookies 0
-Chocolate Croissant 0
-Chocolate Scone 0
-Classic Italian Focaccia Sandwich 0
-Cold Reuben Sandwich 0
-Cucumber Cup with Tajin and Lime 0
-Curved Butter Croissant 0
-Double Burger 0
-Double Chocolate Brookie Cookie 0
-Double Turkey Burger 0
-Fried Jalapenos 0
-Greek Salad Bowl 0
-Greek Yogurt w/ Blueberry Compote & Granola 0
-Guacamole 0
-Gyro Chicken Wrap 0
-Ham and Cheese Croissant 0
-Hot Italian Sandwich 0
-House-Made Chicken Tenders 0
-Kosher Dill Pickle 0
-Margherita Bistro Pastry 0
-Mediterranean Snack Box 0
-Mediterranean Style Vegan Wrap 0
-Mini Cinnamon Swirl Coffee Cake 0
-Nashville Hot Chicken Sandwich 0
-Nashville Mild Sauce 0
-Oven Roasted Chicken, Pear & Goat Cheese Salad 0
-Parmesan & Leek Bistro Pastry 0
-Pepper Jack Cheese 0
-Pineapple Fruit Cup 0
-Rainbow Garden Salad w/ Lemon Basil Vinaigrette 0
-Red Grape Cup 0
-Roasted Beet, Squash & Quinoa Salad 0
-Sauteed Mushrooms 0
-Sauteed Onions 0
-Spinach & Feta Bistro Pastry 0
-Sweet Potato Fries 0
-Tater Tot Nachos 0
-Tater Tots 0
-Thai Beef Lettuce Wrap 0
-Triple Burger 0
-Turkey & Swiss Wrap 0
-Turkey Burger 0
-Turkey, Provolone & Pesto Ciabatta Sandwich 0
-Vegan Coconut Yogurt Parfait w/ Chocolate & Raspberries 0
-Waffle Fries 0
+Almond Croissant 1
+American Cheese 1
+Apple Cinnamon Muffin w/ Walnuts 1
+Apple Turnover 1
+Bacon 1
+Barbeque Sauce 1
+Bistro Cheese Mega Box 1
+Black Bean Quinoa Burger 1
+Blueberry Muffin 1
+Cantaloupe Fruit Cup 1
+Caprese Grilled Cheese Sandwich 1
+Cheddar Cheese 1
+Chicken Parmesan Sandwich 1
+Chicken Salad Sandwich 1
+Chile Con Queso 1
+Chips & Queso 1
+Chocolate Chip Cookies 1
+Chocolate Croissant 1
+Chocolate Scone 1
+Classic Italian Focaccia Sandwich 1
+Cold Reuben Sandwich 1
+Cucumber Cup with Tajin and Lime 1
+Curved Butter Croissant 1
+Double Burger 1
+Double Chocolate Brookie Cookie 1
+Double Turkey Burger 1
+Fried Jalapenos 1
+Greek Salad Bowl 1
+Greek Yogurt w/ Blueberry Compote & Granola 1
+Guacamole 1
+Gyro Chicken Wrap 1
+Ham and Cheese Croissant 1
+Hot Italian Sandwich 1
+House-Made Chicken Tenders 1
+Kosher Dill Pickle 1
+Margherita Bistro Pastry 1
+Mediterranean Snack Box 1
+Mediterranean Style Vegan Wrap 1
+Mini Cinnamon Swirl Coffee Cake 1
+Nashville Hot Chicken Sandwich 1
+Nashville Mild Sauce 1
+Oven Roasted Chicken, Pear & Goat Cheese Salad 1
+Parmesan & Leek Bistro Pastry 1
+Pepper Jack Cheese 1
+Pineapple Fruit Cup 1
+Rainbow Garden Salad w/ Lemon Basil Vinaigrette 1
+Red Grape Cup 1
+Roasted Beet, Squash & Quinoa Salad 1
+Sauteed Mushrooms 1
+Sauteed Onions 1
+Spinach & Feta Bistro Pastry 1
+Sweet Potato Fries 1
+Tater Tot Nachos 1
+Tater Tots 1
+Thai Beef Lettuce Wrap 1
+Triple Burger 1
+Turkey & Swiss Wrap 1
+Turkey Burger 1
+Turkey, Provolone & Pesto Ciabatta Sandwich 1
+Vegan Coconut Yogurt Parfait w/ Chocolate & Raspberries 1
+Waffle Fries 1
+White Chocolate Macadamia Cookie 1

@@ -39,9 +39,9 @@ def generic():
         print(avaliable)
         for item in menu.items:
             if item.name in avaliable:
-                item.number = 1
+                item.number+=1
             else:
-                item.number = 0
+                item.number-=1
             
             f.write(item.toString() + "\n")
         f.close()
