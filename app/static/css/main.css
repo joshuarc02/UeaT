@@ -10,24 +10,16 @@
 	display: inline-block;
 }
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: middle;
 }
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-	display: block;
-}
 body {
 	line-height: 1;
-	background-color: #1e252d;
 	color: #212931;
 	background-image: url('/static/images/bg.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	line-height: 1;
 	background-color: #1e252d;
 }
 ol, ul {
@@ -38,17 +30,9 @@ table {
 	border-spacing: 0;
 	width: 100%
 }
-input, select, textarea {
-	appearance: none;
-	color: #212931;
-}
 html {
 	box-sizing: border-box;
 	font-size: 16pt;
-}
-body.is-preload *, body.is-preload *:before, body.is-preload *:after {
-	animation: none !important;
-	transition: none !important;
 }
 @media screen and (max-width:1680px) {
 	html {
@@ -74,13 +58,11 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.5;
 	letter-spacing: .075em;
 	text-transform: uppercase;
-	margin: 0 0 1rem 0;
 	color: #212931;
 }
 h1 {
 	font-size: 4rem;
 	line-height: 1.1;
-	margin: 0 0 2rem 0;
 }
 a:hover {
 	border-bottom-color: transparent;
@@ -108,23 +90,17 @@ input[type="submit"], input[type="reset"], input[type="button"], button, .button
 	box-shadow: inset 0 0 0 2px #212931;
 	color: #212931 !important;
 }
-input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover, button:hover, .button:hover {
+input[type="submit"]:hover,button:hover, .button:hover {
 	box-shadow: inset 0 0 0 2px #18bfef;
 	color: #18bfef !important;
 }
-input[type="submit"].primary, input[type="reset"].primary, input[type="button"].primary, button.primary, .button.primary {
+input[type="submit"].primary, button.primary, .button.primary {
 	background-color: #212931;
 	box-shadow: none;
 	color: #fff !important;
 }
-input[type="submit"].primary:hover, input[type="reset"].primary:hover, input[type="button"].primary:hover, button.primary:hover, .button.primary:hover {
+input[type="submit"].primary:hover, button.primary:hover, .button.primary:hover {
 	background-color: #18bfef;
-}
-form {
-	margin: 0 0 2rem 0;
-}
-form>:last-child {
-	margin-bottom: 0;
 }
 label {
 	display: block;
@@ -134,17 +110,11 @@ label {
 	letter-spacing: .075em;
 	font-size: .8rem;
 	text-transform: uppercase;
-	margin: 0 0 .75rem 0;
+	margin: 0;
 	color: #212931;
 }
 input[type="checkbox"], input[type="radio"] {
 	appearance: none;
-	display: block;
-	float: left;
-	margin-right: -2rem;
-	opacity: 0;
-	width: 1rem;
-	z-index: -1;
 }
 input[type="checkbox"]+label, input[type="radio"]+label {
 	text-decoration: none;
@@ -431,31 +401,14 @@ h2 {
 	display: inline-block;
 	position: relative;
 }
-.image img {
-	display: block;
-}
 .image.main {
 	display: block;
-	margin: 4rem 0;
 	width: 100%
 }
 .image.main img {
 	width: 100%
 }
-a.image {
-	overflow: hidden;
-}
-a.image img {
-	transition: transform .2s ease-out;
-}
-a.image:hover img {
-	transform: scale(1.05);
-}
 #main>.post header.major>h1, #main>.post header.major h2 {
 	font-size: 4rem;
 	line-height: 1.1;
-	margin: 0 0 2rem 0;
-}
-#main>.post.featured {
-	text-align: center;
 }
