@@ -21,7 +21,14 @@
 				{% for item in menu %}
 				<tr>
 					<td>{{item.name}}</td>
-					<td>{{item.getAvaliable()}}</td>
+					<td>
+						{% if item.votes == 0 %}
+						Maybe, go find out :)
+						{% else %}
+						<div class="bar" style="background-color: green; --bar-value:{{50 + item.percentage}}%;"></div><div class="bar" style="background-color: red; --bar-value:{{50 - item.percentage}}%;"></div>
+						{{50 + item.percentage}}%
+						{% endif %}
+					</td>
 					<td>
 					<div class="col-4 col-12-small">
 						<input type="radio" id="{{item.name}}_avaliable" name="{{item.name}}" value="avaliable">
@@ -32,7 +39,7 @@
 						<label for="{{item.name}}_unknown">No Clue</label>
 					</div>
 					<div class="col-4 col-12-small">
-						<input type="radio" id="{{item.name}}_unavaliable" name="{{item.name}}">
+						<input type="radio" id="{{item.name}}_unavaliable" name="{{item.name}}" value="unavaliable">
 						<label for="{{item.name}}_unavaliable">Unavaliable</label>
 					</div>
 					</td>

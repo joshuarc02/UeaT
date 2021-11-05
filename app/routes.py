@@ -9,7 +9,7 @@ from UeaT import *
 def add_info():
     if not Menu.menus:
         Menu.load_menus()
-        
+
     return {
         "menus": [menu.name for menu in Menu.menus]
     }
@@ -41,11 +41,7 @@ def generic():
         
         for item in menu.items:
             avaliablitity = request.form.get(item.name)
-            print(avaliablitity)
-            if avaliablitity == "avaliable":
-                item.number+=1
-            elif avaliablitity == "unavaliable":
-                item.number-=1
+            item.update_avaliablitity(avaliablitity)
             f.write(item.toString() + "\n")
         f.close()
 

@@ -10,9 +10,9 @@ class Menu:
             file = open(file_location)
 
             for line in file:
-                name, number = line.strip().rsplit(" ", 1)
-
-                item = Item(name, number)
+                line = line.strip().split("_")
+                item = Item(*line)
+                print(item.toString())
                 self.items.append(item)
 
     def load_menus():
@@ -89,15 +89,30 @@ class Menu:
             
 
 class Item:
-    def __init__(self, name, number = 1):
+    def __init__(self, name, number=0, votes=0):
         self.name = name
         self.number = int(number)
+        self.votes = int(votes)
+        if self.votes != 0:
+            self.calcPercentage()
 
-    def getAvaliable(self):
-        if self.number > 0:
-            return '✓'
-        else:
-            return 'X'
+    def update_avaliablitity(self, avaliablitity):
+        avaliable = "avaliable"
+        unavaliable = "unavaliable"
+
+        if avaliablitity in [avaliable,unavaliable]:
+            self.votes+=1
+
+            if avaliablitity == "avaliable":
+                self.number+=1
+            elif avaliablitity == "unavaliable":
+                self.number-=1
+
+            self.calcPercentage()
+            
+    def calcPercentage(self):
+        import math
+        self.percentage = int(50 * (self.number / self.votes))
 
     def toString(self):
-        return self.name + " " + str(self.number)
+        return self.name + "_" + str(self.number) + "_" + str(self.votes)

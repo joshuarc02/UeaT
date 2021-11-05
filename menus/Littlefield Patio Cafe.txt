@@ -1,39 +1,48 @@
-Apple Turnover 1
-Bacon, Egg & Cheese Breakfast Taco 1
-Banana Walnut Bread 1
-Bean & Cheese Breakfast Taco 1
-Bistro Cheese Mega Box 1
-Cantaloupe Fruit Cup 1
-Cheese Pizza 1
-Chicken Salad Sandwich 1
-Chocolate Chip Cookies 1
-Chorizo & Egg Breakfast Taco 1
-Classic Italian Focaccia Sandwich 1
-Cold Reuben Sandwich 1
-Cucumber Cup with Tajin and Lime 1
-Curved Butter Croissant 1
-Double Chocolate Brookie Cookie 1
-Greek Salad Bowl 1
-Greek Yogurt w/ Blueberry Compote & Granola 1
-Gyro Chicken Wrap 1
-Ham and Cheese Croissant 1
-Hawaiian Pizza 1
-Margherita Bistro Pastry 1
-Mediterranean Snack Box 1
-Mediterranean Style Vegan Wrap 1
-Mini Cinnamon Swirl Coffee Cake 1
-Oven Roasted Chicken, Pear & Goat Cheese Salad 1
-Parmesan & Leek Bistro Pastry 1
-Pepperoni Pizza 1
-Pineapple Fruit Cup 1
-Potato, Egg & Cheese Breakfast Taco 1
-Pumpkin Bread 1
-Rainbow Garden Salad w/ Lemon Basil Vinaigrette 1
-Red Grape Cup 1
-Roasted Beet, Squash & Quinoa Salad 1
-Spinach & Feta Bistro Pastry 1
-Thai Beef Lettuce Wrap 1
-Turkey & Swiss Wrap 1
-Turkey, Provolone & Pesto Ciabatta Sandwich 1
-Vegan Coconut Yogurt Parfait w/ Chocolate & Raspberries 1
-White Chocolate Macadamia Cookie 1
+Apple Turnover_0_0
+Bacon, Egg & Cheese Breakfast Taco_0_0
+Banana Walnut Bread_0_0
+Bean & Cheese Breakfast Taco_0_0
+Beer Battered Pollock Fillets_0_0
+Bistro Cheese Mega Box_0_0
+Cantaloupe Fruit Cup_0_0
+Cheese Pizza_0_0
+Chicken & Sausage Gumbo_0_0
+Chicken Salad Sandwich_0_0
+Chocolate Chip Cookies_0_0
+Chorizo & Egg Breakfast Taco_0_0
+Classic Italian Focaccia Sandwich_0_0
+Cold Reuben Sandwich_0_0
+Coleslaw_0_0
+Corn on the Cob_0_0
+Cucumber Cup with Tajin and Lime_0_0
+Curved Butter Croissant_0_0
+Double Chocolate Brookie Cookie_0_0
+Four Cheese Drop Biscuit_0_0
+French Fries_0_0
+Greek Salad Bowl_0_0
+Greek Yogurt w/ Blueberry Compote & Granola_0_0
+Gyro Chicken Wrap_0_0
+Ham and Cheese Croissant_0_0
+Hushpuppies_0_0
+Margherita Bistro Pastry_0_0
+Mediterranean Snack Box_0_0
+Mediterranean Style Vegan Wrap_0_0
+Mini Cinnamon Swirl Coffee Cake_0_0
+New England Clam Chowder_0_0
+Oven Roasted Chicken, Pear & Goat Cheese Salad_0_0
+Parmesan & Leek Bistro Pastry_0_0
+Pepperoni Pizza_0_0
+Pineapple Fruit Cup_0_0
+Potato, Egg & Cheese Breakfast Taco_0_0
+Pumpkin Bread_0_0
+Rainbow Garden Salad w/ Lemon Basil Vinaigrette_0_0
+Red Grape Cup_0_0
+Roasted Beet, Squash & Quinoa Salad_0_0
+Roasted Italian Broccoli_0_0
+Spinach & Feta Bistro Pastry_0_0
+Tartar Sauce_0_0
+Thai Beef Lettuce Wrap_0_0
+Turkey & Swiss Wrap_0_0
+Turkey, Provolone & Pesto Ciabatta Sandwich_0_0
+Vegan Coconut Yogurt Parfait w/ Chocolate & Raspberries_0_0
+White Chocolate Macadamia Cookie_0_0

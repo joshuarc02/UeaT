@@ -1,139 +1,128 @@
-12" Spinach Tortilla 1
-Alfredo Sauce 1
-American Cheese Slices 1
-Apple Cobbler 1
-BBQ Sauce 1
-BBQ Turkey 1
-Bacon 1
-Bacon Cheddar Chive Scone 1
-Baked Sesame Tofu 1
-Baked Sweet Potato 1
-Banana 1
-Basmati Rice 1
-Biscuit 1
-Black Forest Brownies 1
-Black Olives 1
-Blueberries 1
-Breadstick 1
-Broccoli, Carrot & Cauliflower Medley 1
-Buffalo Chicken Pizza 1
-Cantaloupe 1
-Cheese Pizza 1
-Cheeseburger 1
-Cherry Tomatoes 1
-Chicken Curry w/ Tomatoes & Spinach 1
-Chile Con Queso 1
-Chimichurri Sauce 1
-Chinese Egg Drop Soup 1
-Chipotle Ranch Dressing 1
-Chocolate Chip Zucchini Bread 1
-Chopped Fresh Tomato 1
-Chopped Hard Boiled Egg 1
-Chopped Romaine Lettuce 1
-Cilantro Chutney 1
-Coleslaw 1
-Cornbread 1
-Craisins 1
-Cream of Wheat 1
-Crescent City Chicken 1
-Crispy Bacon Pieces 1
-Cucumber Slices 1
-Diced Green Pepper 1
-Diced Honeydew 1
-Diced Onion 1
-Diced Tomato 1
-French Fried Onions 1
-Fresh Orange 1
-Fresh Orange Wedges 1
-Fresh Red Grapes 1
-Fresh Tomato Slices 1
-Fried Sidewinder Potatoes 1
-Gala Apple 1
-Garbanzo Beans 1
-General Tso's Sauce 1
-Gobi Aloo (Cauliflower & Potatoes) 1
-Granny Smith Apple 1
-Grapefruit Halves 1
-Grated Parmesan Cheese 1
-Grilled Chicken Sandwich 1
-Halal Grilled Chicken Breast 1
-Halal Hamburger Patty 1
-Ham Slices 1
-Hard Boiled Egg 1
-Hickory Smoked Tofurky Slices 1
-Honey Glazed Baby Carrots 1
-House Pickled Red Onions 1
-House Smoked Brisket Filling 1
-Jalapeno Pepper Slices 1
-Jalapeno Potato Salad 1
-Kale Salad Mix 1
-Leaf Lettuce 1
-Lemon Squares 1
-Linguine Pasta 1
-Lowfat Cottage Cheese 1
-Macaroni and Cheese 1
-Mandarin Oranges 1
-Mango 1
-Maple Syrup 1
-Marinara Sauce 1
-Mayonnaise 1
-Mediterranean Pizza 1
-Minestrone Soup 1
-Multi Grain Bread 1
-Mustard 1
-Pancakes 1
-Penne Pasta 1
-Peppered Cream Gravy 1
-Pepperoni Pizza 1
-Pickles, Onions & Jalapeno Peppers 1
-Pico de Gallo 1
-Pineapple Tidbits 1
-Plain Greek Yogurt 1
-Pork for Tacos al Pastor 1
-Portobello Mushrooms Steaks 1
-Raw Broccoli Florets 1
-Red Bliss Potato Salad 1
-Refried Beans 1
-Roasted Cauliflower 1
-Roasted Italian Vegetables 1
-Rosemary Roasted Potatoes 1
-Sammy's BBQ Sauce 1
-Sausage Patty 1
-Scrambled Eggs 1
-Seasoned French Fries 1
-Seasoned Pulled Pork 1
-Sesame Broccoli 1
-Shredded Carrots 1
-Shredded Cheddar Cheese 1
-Shredded Lettuce 1
-Shrimp Alfredo w/ Linguini & Peas 1
-Sliced Canned Pears 1
-Sliced Green Onion 1
-Sliced Jalapeno Pepper 1
-Sliced Kiwi 1
-Sliced Mushrooms 1
-Sliced Pickles 1
-Sliced Red Onion 1
-Smore's Pizza 1
-Sour Cream 1
-Spicy Black Bean Burger 1
-Sriracha Mayonnaise 1
-Steamed Edamame 1
-Swiss Cheese Slices 1
-Thin Sliced Tomatoes 1
-Tofu 1
-Tofu Scramble 1
-Tofu, Peas and Carrots in Curry Sauce 1
-Tortilla Chips 1
-Tres Leches Sheet Cake 1
-Tuna 1
-Tuna Salad 1
-Twice Baked Potato Casserole 1
-Vanilla Yogurt 1
-Vegan "Cheese" Pizza 1
-Vegan Snickerdoodle Bar 1
-Vegetable Samosa 1
-Vegetarian Breakfast Patty 1
-Whipped Honey Butter 1
-White Bread 1
-White Whole Wheat Hamburger Bun 1
+"Veggie Lovers" Pizza_0_0
+12" Spinach Tortilla_0_0
+American Cheese Slices_0_0
+Applewood Smoked Turkey Breast_0_0
+BBQ Cauliflower Steak_0_0
+BBQ Sandwich_0_0
+BBQ Tofu Scramble_0_0
+Bacon_0_0
+Baked Beans_0_0
+Baked Potato_0_0
+Baked Sweet Potato_0_0
+Banana_0_0
+Biscuit_0_0
+Black Olives_0_0
+Blackened Catfish_0_0
+Blueberries_0_0
+Broccoli Spears_0_0
+Cantaloupe_0_0
+Caramel Rice Krispie Treat_0_0
+Carrot & Raisin Scone_0_0
+Carrot Cupcake w/ Icing_0_0
+Cheese Pizza_0_0
+Cheeseburger_0_0
+Cherry Tomatoes_0_0
+Chile Con Queso_0_0
+Chipotle Chicken_0_0
+Chipotle Ranch Dressing_0_0
+Chopped Hard Boiled Egg_0_0
+Chopped Romaine Lettuce_0_0
+Cinnamon Roll_0_0
+Corn on the Cob_0_0
+Craisins_0_0
+Crispy Bacon Pieces_0_0
+Cucumber Slices_0_0
+DJ's Baked Lemon Pollock_0_0
+Diced Ham_0_0
+Diced Honeydew_0_0
+Diced Tomato_0_0
+Edamame_0_0
+French Style Waffles_0_0
+Fresh Berry Infused Water_0_0
+Fresh Cucumber Ginger Mint Infused Water_0_0
+Fresh Lemon Orange and Lime Infused Water_0_0
+Fresh Melon and Herb Infused Water_0_0
+Fresh Orange_0_0
+Fresh Orange Wedges_0_0
+Fresh Red Grapes_0_0
+Fresh Sauteed Kale_0_0
+Fresh Spinach_0_0
+Fresh Tomato Slices_0_0
+Fruity Pebbles Treat Bar_0_0
+Gala Apple_0_0
+Garbanzo Beans_0_0
+Granny Smith Apple_0_0
+Grapefruit Halves_0_0
+Grilled Chicken Sandwich_0_0
+Grits_0_0
+Halal Grilled Chicken Breast_0_0
+Halal Hamburger Patty_0_0
+Ham Slices_0_0
+Hard Boiled Egg_0_0
+Hash Brown Patty_0_0
+Hickory Smoked Tofurky Slices_0_0
+Homemade Turkey Noodle Soup_0_0
+Jalapeno Pepper Slices_0_0
+Lowfat Cottage Cheese_0_0
+Mandarin Oranges_0_0
+Mango_0_0
+Maple Syrup_0_0
+Mayonnaise_0_0
+Mediterranean Pizza_0_0
+Mustard_0_0
+New York Cheesecake Bar_0_0
+Okra & Tomatoes_0_0
+Peppered Cream Gravy_0_0
+Pepperoni Pizza_0_0
+Pico de Gallo_0_0
+Plain Greek Yogurt_0_0
+Pork for Tacos al Pastor_0_0
+Ratatouille_0_0
+Raw Broccoli Florets_0_0
+Refried Beans_0_0
+Roasted Chicken Bayou_0_0
+Roasted Italian Vegetables_0_0
+Scrambled Eggs_0_0
+Seafood Newburg w/ Puff Pastry_0_0
+Sesame Dipping Sauce_0_0
+Sesame Dressing_0_0
+Shredded Carrots_0_0
+Shredded Cheddar Cheese_0_0
+Shredded Lettuce_0_0
+Sliced Green Onion_0_0
+Sliced Mushrooms_0_0
+Sliced Pickles_0_0
+Sliced Provolone Cheese_0_0
+Sliced Red Onion_0_0
+Sliced Vegan Bread_0_0
+Smothered Potatoes w/ Onions_0_0
+Sour Cream_0_0
+Southern Style Rolls_0_0
+Southwestern Grilled Corn on the Cob_0_0
+Spicy Black Bean Burger_0_0
+Spinach and Feta Brown Rice_0_0
+Sriracha Mayonnaise_0_0
+Steamed White Rice_0_0
+Stir Fry Vegetable Blend_0_0
+Summer Quinoa Salad w/ Agave Lime Dressing_0_0
+Sweet Chile Shrimp_0_0
+Swiss Cheese Slices_0_0
+Teriyaki Tofu Stir Fry_0_0
+Thin Sliced Tomatoes_0_0
+Tofu_0_0
+Tortilla Chips_0_0
+Twice Baked Potato Pizza_0_0
+Vanilla Yogurt_0_0
+Vegan "Cheese" Pizza_0_0
+Vegan "Fish" Fillet_0_0
+Vegan Cajun Remoulade_0_0
+Vegan Cornbread_0_0
+Vegan Double Chocolate Brookie Bar_0_0
+Vegan Garlic Cheese Grits_0_0
+Vegetable & Chickpea Soup_0_0
+Vegetable Spring Rolls_0_0
+Vegetarian Breakfast Patty_0_0
+Waffle Fries_0_0
+Warm Southwestern Cole Slaw_0_0
+Whipped Honey Butter_0_0
+White Bread_0_0
