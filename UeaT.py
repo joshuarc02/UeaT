@@ -98,14 +98,14 @@ class Item:
 
     def update_avaliablitity(self, avaliablitity):
         avaliable = "avaliable"
-        unavaliable = "unavaliable"
+        unavailable = "unavailable"
 
-        if avaliablitity in [avaliable,unavaliable]:
+        if avaliablitity in [avaliable,unavailable]:
             self.votes+=1
 
             if avaliablitity == "avaliable":
                 self.number+=1
-            elif avaliablitity == "unavaliable":
+            elif avaliablitity == "unavailable":
                 self.number-=1
 
             self.calcPercentage()
