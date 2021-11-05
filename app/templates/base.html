@@ -11,7 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href={{ url_for('static', filename='css/main.css') }}/>
 	</head>
-	<body class="is-preload">
+	<body>
         <div id="wrapper" class="fade-in">
 			<!-- Header -->
 			<header id="header">
@@ -30,14 +30,7 @@
                 {% block content %}{% endblock %}       
             </div>
         </div>
-		<!-- Scripts -->
-			<script src={{ url_for('static', filename="js/jquery.min.js") }}></script>
-			<script src={{ url_for('static', filename="js/jquery.scrollex.min.js") }}></script>
-			<script src={{ url_for('static', filename="js/jquery.scrolly.min.js") }}></script>
-			<script src={{ url_for('static', filename="js/browser.min.js") }}></script>
-			<script src={{ url_for('static', filename="js/breakpoints.min.js") }}></script>
-			<script src={{ url_for('static', filename="js/util.js") }}></script>
-			<script src={{ url_for('static', filename="js/main.js") }}></script>
-
+		
+		<script src={{ url_for('static', filename="js/main.js") }}></script>
 	</body>
 </html>
