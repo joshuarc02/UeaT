@@ -7,6 +7,9 @@ from UeaT import *
 # globals
 @app.context_processor
 def add_info():
+    if not Menu.menus:
+        Menu.load_menus()
+        
     return {
         "menus": [menu.name for menu in Menu.menus]
     }
@@ -35,14 +38,14 @@ def generic():
     
     if request.method == 'POST':
         f = open(menu_location, "w")
-        avaliable = request.form.getlist("items")
-        print(avaliable)
+        
         for item in menu.items:
-            if item.name in avaliable:
+            avaliablitity = request.form.get(item.name)
+            print(avaliablitity)
+            if avaliablitity == "avaliable":
                 item.number+=1
-            else:
+            elif avaliablitity == "unavaliable":
                 item.number-=1
-            
             f.write(item.toString() + "\n")
         f.close()
 

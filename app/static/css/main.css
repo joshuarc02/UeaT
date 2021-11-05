@@ -101,9 +101,6 @@ input, select, textarea {
 		box-sizing: border-box;
 	}
 
-	*, *:before, *:after {
-		box-sizing: inherit;
-	}
 
 	body {
 		background-color: #1e252d;
@@ -2451,12 +2448,7 @@ input, select, textarea {
 				top: -0.125rem;
 				width: 1.8rem;
 			}
-
-		input[type="checkbox"]:checked + label:before,
-		input[type="radio"]:checked + label:before {
-			content: '\f00c';
-		}
-
+			
 	input[type="checkbox"] + label:before {
 		border-radius: 0;
 	}
@@ -3008,7 +3000,6 @@ input, select, textarea {
 	}
 
 	table {
-		margin: 0 0 2rem 0;
 		width: 100%;
 	}
 
@@ -3016,10 +3007,6 @@ input, select, textarea {
 			border: solid 1px;
 			border-left: 0;
 			border-right: 0;
-		}
-
-		table td {
-			padding: 0.75rem 0.75rem;
 		}
 
 		table th {

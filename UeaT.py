@@ -15,7 +15,14 @@ class Menu:
                 item = Item(name, number)
                 self.items.append(item)
 
-    def load_menus(menu_locations):
+    def load_menus():
+        import os
+
+        menu_locations = os.listdir(os.path.abspath("menus"))
+        if not menu_locations:
+            Menu.create_menus()
+            menu_locations = os.listdir(os.path.abspath("menus"))
+
         for location in menu_locations:
             name = location.replace('.txt', '')
             menu_location = Menu.get_menu_location(name)

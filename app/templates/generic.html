@@ -23,9 +23,17 @@
 					<td>{{item.name}}</td>
 					<td>{{item.getAvaliable()}}</td>
 					<td>
-					<div class="col-6 col-12-small">
-						<input type="checkbox" id="{{item.name}}" name="items"  value="{{item.name}}" {% if item.number == '1' %}checked{% endif %}>
-						<label for="{{item.name}}"></label>
+					<div class="col-4 col-12-small">
+						<input type="radio" id="{{item.name}}_avaliable" name="{{item.name}}" value="avaliable">
+						<label for="{{item.name}}_avaliable">Available</label>
+					</div>
+					<div class="col-4 col-12-small">
+						<input type="radio" id="{{item.name}}_unknown" name="{{item.name}}" value="unknown" checked>
+						<label for="{{item.name}}_unknown">No Clue</label>
+					</div>
+					<div class="col-4 col-12-small">
+						<input type="radio" id="{{item.name}}_unavaliable" name="{{item.name}}">
+						<label for="{{item.name}}_unavaliable">Unavaliable</label>
 					</div>
 					</td>
 				</tr>
